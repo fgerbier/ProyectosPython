@@ -2,7 +2,7 @@
 
 > Ejemplo: Script en Python para analizar y visualizar datos de manera simple y automatizada.
 
--
+
 
 ✅ **Características principales:**
 - Limpieza y transformación de datos.
